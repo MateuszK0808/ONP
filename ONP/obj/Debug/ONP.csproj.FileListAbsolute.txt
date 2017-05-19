@@ -1,0 +1,6 @@
+D:\Studia\Algorytmy\ONP\ONP\bin\Debug\ONP.exe.config
+D:\Studia\Algorytmy\ONP\ONP\bin\Debug\ONP.exe
+D:\Studia\Algorytmy\ONP\ONP\bin\Debug\ONP.pdb
+D:\Studia\Algorytmy\ONP\ONP\obj\Debug\ONP.csprojResolveAssemblyReference.cache
+D:\Studia\Algorytmy\ONP\ONP\obj\Debug\ONP.exe
+D:\Studia\Algorytmy\ONP\ONP\obj\Debug\ONP.pdb
